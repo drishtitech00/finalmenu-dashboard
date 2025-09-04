@@ -155,4 +155,4 @@ For issues and questions:
 
 ---
 
-**Built with ❤️ by Arushi Soni**
+**Built with ❤️ by Drishti Baghel**
