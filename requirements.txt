@@ -1,0 +1,17 @@
+streamlit
+streamlit-option-menu
+paramiko
+pywhatkit
+instagrapi
+twilio
+pyttsx3
+SpeechRecognition
+google-generativeai
+requests
+beautifulsoup4
+matplotlib
+seaborn
+scikit-learn
+pandas
+qrcode
+Pillow

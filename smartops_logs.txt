@@ -1,0 +1,2 @@
+# Logs cleared for GitHub upload
+# This file will be populated when the application is used
